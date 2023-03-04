@@ -10,7 +10,7 @@ for Java
 
 Minimum System Requirements
 
-CPU : i3 Gen 8th
+CPU : intel i3 Gen 8th
 
 RAM : 4GB
 
@@ -20,7 +20,7 @@ HardDisk : Must be SSD
 
 Maximum System Requirements
 
-CPU : i7 Gen 9th
+CPU : intel i7 Gen 9th
 
 GPU : Nvidia RTX 3080
 
@@ -40,7 +40,7 @@ Note : This my backup hardcore world
 
 We Use 
 
-i5 Gen 7th
+intel i5 Gen 7th
 
 Intel® HD 620 Graphics
 
