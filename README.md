@@ -11,8 +11,11 @@ for Java
 Minimum System Requirements
 
 CPU : i3 Gen 8th
+
 RAM : 4GB
+
 GPU : Intel® HD 600 or 200 Graphics
+
 HardDisk : Must be SSD
 
 Maximum System Requirements
@@ -28,3 +31,13 @@ Here is
 
 ![2023-03-03_18 14 37](https://user-images.githubusercontent.com/124361641/222871669-d5878e7a-b858-4c40-8ae2-85a2715a9c32.png)
 ![2023-03-03_18 14 00](https://user-images.githubusercontent.com/124361641/222871681-67418921-d7ed-4d20-b560-67b1352cfeeb.png)
+
+Note : This my backup hardcore world
+
+We Use 
+
+i5 Gen 7th
+
+Intel® HD 620 Graphics
+
+SSD M.2 256GB
