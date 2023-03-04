@@ -22,3 +22,9 @@ GPU : Nvidia RTX 3080
 RAM : 16GB
 VRAM : 4GB or 8GB
 HardDisk : Must be SSD M.2
+
+Here is 
+
+
+![2023-03-03_18 14 37](https://user-images.githubusercontent.com/124361641/222871669-d5878e7a-b858-4c40-8ae2-85a2715a9c32.png)
+![2023-03-03_18 14 00](https://user-images.githubusercontent.com/124361641/222871681-67418921-d7ed-4d20-b560-67b1352cfeeb.png)
