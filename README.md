@@ -21,9 +21,13 @@ HardDisk : Must be SSD
 Maximum System Requirements
 
 CPU : i7 Gen 9th
+
 GPU : Nvidia RTX 3080
+
 RAM : 16GB
+
 VRAM : 4GB or 8GB
+
 HardDisk : Must be SSD M.2
 
 Here is 
